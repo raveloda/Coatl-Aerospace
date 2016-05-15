@@ -9,7 +9,6 @@ Known Issues:
 ============
 - CA-R3900 RTG animation is slightly jumpy
 - CA-R3900 RTG node for the magnetometer is oriented straight up, instead of an angle
-- CA-A01 antenna has an extra "deploy experiment" button in the right-click menu (From DMagicScienceAnimate)
 - Not enough feedback on the Dev thread! Your feedback will help make the mod better!
 
 ============
@@ -18,10 +17,14 @@ Changelog:
 
 Beta 0.13
 -Added new science parts!
-	*Changed Ground-plane antenna to use ModuleAnimateGeneric
+	*CA-ELIX Electrostatic and Ionization Experiment (Ranger)
 	*CA-KLIR Infra-Red Spec (2001 Mars Odyssey)
 	*CA-SCGRS Gamma Ray Spec (2001 Mars Odyssey)
 	*CA-SCB01 Torekka Science Boom (Voyager)
+-Added E200B Solar Panel
+-Tweaked Science parts
+-Changed Ground-plane antenna to use ModuleAnimateGeneric
+-Added new ScienceDefs for the new experiments
 
 Beta 0.12
 -DMagicScienceAnimate is now a pre-requisite, but is included
