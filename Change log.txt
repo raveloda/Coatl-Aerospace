@@ -19,6 +19,8 @@ Beta 0.13
 -Added new science parts!
 	*CA-ELIX Electrostatic and Ionization Experiment (Ranger)
 	*CA-KLIR Infra-Red Spec (2001 Mars Odyssey)
+	*CA-ROTFL Orbital Telescope (Mars Recon Orbiter)
+	*CA-SWIS Solar Wind Analyzer (MAVEN)
 	*CA-SCGRS Gamma Ray Spec (2001 Mars Odyssey)
 	*CA-SCB01 Torekka Science Boom (Voyager)
 -Added E200B Solar Panel
