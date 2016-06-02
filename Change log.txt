@@ -27,6 +27,7 @@ Beta 0.13
 -Tweaked Science parts
 -Changed Ground-plane antenna to use ModuleAnimateGeneric
 -Added new ScienceDefs for the new experiments
+-Added some Twescale Support. Configs by jsolson
 
 Beta 0.12
 -DMagicScienceAnimate is now a pre-requisite, but is included
