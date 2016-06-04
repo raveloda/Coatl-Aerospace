@@ -15,12 +15,13 @@ Known Issues:
 Changelog:
 ============
 
-Beta 0.13
+Beta 0.13 Release Candidate
 -Added new science parts!
 	*CA-ELIX Electrostatic and Ionization Experiment (Ranger)
 	*CA-KLIR Infra-Red Spec (2001 Mars Odyssey)
 	*CA-ROTFL Orbital Telescope (Mars Recon Orbiter)
 	*CA-SWIS Solar Wind Analyzer (MAVEN)
+	*CA-RPWS Radio Wave Science (Cassini)
 	*CA-LUV Ultraviolet Spectrometer (MAVEN)
 	*CA-SCGRS Gamma Ray Spec (2001 Mars Odyssey)
 	*CA-SCB01 Torekka Science Boom (Voyager)
@@ -28,7 +29,9 @@ Beta 0.13
 -Tweaked Science parts
 -Changed Ground-plane antenna to use ModuleAnimateGeneric
 -Added new ScienceDefs for the new experiments
--Added some Twescale Support. Configs by jsolson
+-Added some Tweakscale Compatibility. Configs by jsolson
+-Added Remote Tech Compatibility. Configs by rakol
+-Added AntennaRange Compatibility. Configs by rasta013
 
 Beta 0.12
 -DMagicScienceAnimate is now a pre-requisite, but is included
