@@ -27,11 +27,16 @@ Beta 0.13 Release Candidate
 	*CA-SCB01 Torekka Science Boom (Voyager)
 -Added E200B Solar Panel
 -Tweaked Science parts
+	*Improved models and textures of stock rteplacements
 -Changed Ground-plane antenna to use ModuleAnimateGeneric
 -Added new ScienceDefs for the new experiments
 -Added some Tweakscale Compatibility. Configs by jsolson
 -Added Remote Tech Compatibility. Configs by rakol
 -Added AntennaRange Compatibility. Configs by rasta013
+-Updated some part descriptions
+-Added part tags
+-Reduced A100 mass to 0.35
+-Improved Torekka torque to 0.4
 
 Beta 0.12
 -DMagicScienceAnimate is now a pre-requisite, but is included
