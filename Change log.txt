@@ -16,6 +16,7 @@ Changelog:
 ============
 
 Beta 0.13 Release Candidate
+
 -Added new science parts!
 	*CA-ELIX Electrostatic and Ionization Experiment (Ranger)
 	*CA-KLIR Infra-Red Spec (2001 Mars Odyssey)
@@ -25,9 +26,23 @@ Beta 0.13 Release Candidate
 	*CA-LUV Ultraviolet Spectrometer (MAVEN)
 	*CA-SCGRS Gamma Ray Spec (2001 Mars Odyssey)
 	*CA-SCB01 Torekka Science Boom (Voyager)
+	*CA-DUST-C Dust collector (Stardust)
+	*CA-DUST-X Dust Experiment (Cassini)
+
 -Added E200B Solar Panel
--Tweaked Science parts
+-Added CA-ESM - Quetzal's Extended Service Module (Pioneer 10/11)
+-Added specular maps to probes cores and solar panels
+-Improved older textures
+	*Improved weathering and reduced harsh contrast where possible
+	*Improved edges to prepare for future specular maps overhaul
+	*Darkened the Photovoltaic cells on the E200 series and made them less purple
+-Tweaked Science parts:
 	*Improved models and textures of stock rteplacements
+	*New model and texture of the MG100 Magnetometer (Pioneer 10/11)
+
+ATTENTION!: New Magnetometer is of slightly different size. Old model is included but is being deprecated on patch 0.14. 
+Recover your vessels!!!
+
 -Changed Ground-plane antenna to use ModuleAnimateGeneric
 -Added new ScienceDefs for the new experiments
 -Added some Tweakscale Compatibility. Configs by jsolson
