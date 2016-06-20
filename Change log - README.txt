@@ -20,9 +20,15 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-
 Changelog:
 ============
 
+Beta 0.13.1
+
+- Fixed colliders on the 100i battery so it can be selected in the VAB again
+
+
+
 Beta 0.13
 
--New parts!
+New parts!
 	==Science parts==
 	*CA-ELIX Electrostatic and Ionization Experiment (Ranger)
 	*CA-KLIR Infra-Red Spec (2001 Mars Odyssey)
@@ -37,12 +43,15 @@ Beta 0.13
 	==Other parts added==
 	*E200B Solar Panel
 	*CA-ESM - Quetzal's Extended Service Module (Pioneer 10/11)
--Updated old parts:
+
+Updated old parts:
 	*Improved models and textures of stock replacements
 	*New model and texture of the MG100 Magnetometer (Pioneer 10/11)
 
 ATTENTION!: New Magnetometer is of slightly different size. Old model is included but is being deprecated on patch 0.14. 
 Recover your vessels!!!
+
+Updates:
 
 -Added specular maps to probes cores and many parts
 -Improved older textures
