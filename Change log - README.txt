@@ -19,12 +19,21 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-
 ============
 Changelog:
 ============
+Beta 0.14RC
+
+New Parts!
+	==Propulsion parts==
+	*Small RCS systems (RS01, RS04, RST)
+	*Medium RCS system (RM01, RM03, RM04)
+	*CAE-LV35 "Linkor" Service Module (Fregat)
+
+-Moved the "RS" RCS to Specialized Ctrl
+-Updated RT and AR configs
+-Added Coatl Aerokosmicheskogo Vostok flag
 
 Beta 0.13.1
 
 - Fixed colliders on the 100i battery so it can be selected in the VAB again
-
-
 
 Beta 0.13
 
