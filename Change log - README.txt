@@ -87,7 +87,7 @@ Thanks to everyone who supports and provides feedback and ecouragement on the Fo
 License:
 ============
 ProbesPlus! is distributed under a CC-BY-NC-SA 4.0 license. Please let me know if you release anything based on my work
-
+Firespitter and DMagicScienceAnimate are re-distributed under their respective licenses
 
 
 ----------------------------------Older Change Logs:----------------------------------
