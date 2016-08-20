@@ -7,8 +7,6 @@ Thank you for downloading and playtesting! I look forward to your feedback! -Akr
 ============
 Known Issues:
 ============
-- CA-R3900 RTG animation is slightly jumpy
-- CA-R3900 RTG node for the magnetometer is oriented straight up, instead of an angle
 - Not enough feedback on the Dev thread! Your feedback will help make the mod better!
 
 Please note that the mod is still in BETA and there will be constant changes and updates. If you encounter any issues, please report them on the Github page or the forums!
@@ -22,15 +20,77 @@ Changelog:
 Beta 0.14RC
 
 New Parts!
-	==Propulsion parts==
-	*Small RCS systems (RS01, RS04, RST)
-	*Medium RCS system (RM01, RM03, RM04)
-	*CAE-LV35 "Linkor" Service Module (Fregat)
+	==Probe Cores==
+	*CA-Q04-M 'Tatsujin' Advanced QBE (Inspired by MAVEN)
 
+	==Antenna==
+	*CA-A200 Quetzal Dish (Inspired by Pioneer 10, re-design)
+	*CA-A500 Tatsujin Dish (Inspired by MAVEN)
+
+	==Electrical==
+	*CA-E400MG 1x2 Solar Panels (Inspired by MAVEN)
+
+	==Propulsion parts==
+	*3 Small RCS systems (RS01, RS04, RST)
+	*3 Medium RCS system (RM01, RM03, RM04)
+	*CAE-LV35 "Linkor" Service Module (Inspired by Fregat)
+	
+	==Utility and Control==
+	*CA-RW2 Dual Reaction Wheels
+
+Updated Texture and/or models:
+	*All previous probe cores
+	*Quetzal ESM
+	*All electrical parts (Solar panels, rtgs, batteries)
+	*All Antenna (some received VERY minor changes)
+	*All Reaction wheels, and Stability Systems
+
+Updates:
+
+-Added Firespitter as a dependency (included)
+-NEW: Firespitter texture switching for all probe cores and the Quetzal Service Module
+-Removed Legacy support for the original magnetometer
 -Moved the "RS" RCS to Specialized Ctrl
+-Moved the "Startrack" to Specialized Ctrl
+-Increased RW1 torque to 1, tweaked stats
+-Increased RW1a torque to 1.4, tweaked stats
+-Increased RW3 torque to 4, tweaked stats
+-Increased AACS SAS level to 3, cost and weight
+-Added Small Reaction Wheels to the E100-SPV Solar Panels to simulate active Solar Pressure Vanes 
+-Fixed attachment node on the CA-ROTFL telescope
+-Fixed the jumpy animation on the Torekka RTG
+-Fixed attachment node angle on the Torekka RTG. NOTE: You need to attach it from the side for it to work (Thanks komodo!)
+-Fixed DMagic contract support (Thanks komodo!)
+-Added part search tags for the real-life inspiration mission to some parts
+
+-CA-A200 Antenna weight slightly reduced and cost slightly increased to balance new functionality (Added RCS)
+
 -Updated RT and AR configs
 -Added Coatl Aerokosmicheskogo Vostok flag
 
+============
+Credits:
+============
+
+-DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
+-CobaltWolf: For all the encouragement, help and inspiration
+-masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
+-Jso: Feedback, Tweakscale configs, and fixing the Ground Plane animation!
+-Rakol: RemoteTech configs
+-Rasta013: AntennaRange configs
+-komodo: DMagic contract fixes, Magnetometer Node fix
+-TheDevHole crew: Dank memes
+
+Thanks to everyone who supports and provides feedback and ecouragement on the Forums!
+
+============
+License:
+============
+ProbesPlus! is distributed under a CC-BY-NC-SA 4.0 license. Please let me know if you release anything based on my work
+
+
+
+----------------------------------Older Change Logs:----------------------------------
 Beta 0.13.1
 
 - Fixed colliders on the 100i battery so it can be selected in the VAB again
@@ -79,27 +139,6 @@ Updates:
 -Improved Torekka torque to 0.4
 -Revised antenna dishes transmission rate for the stock system
 
-============
-Credits:
-============
-
--DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
--CobaltWolf: For all the encouragement, help and inspiration
--masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
--Jso: Feedback, Tweakscale configs, and fixing the Ground Plane animation!
--Rakol: RT configs
--Rasta013: AR configs
-
-Thanks to everyone who supports and provides feedback and ecouragement on the Forums!
-
-============
-License:
-============
-ProbesPlus! is distributed under a CC-BY-NC-SA 4.0 license. Please let me know if you release anything based on my work
-
-
-
-----------------------------------Older Change Logs:----------------------------------
 Beta 0.12
 -DMagicScienceAnimate is now a pre-requisite, but is included
 -Added new parts!
