@@ -29,6 +29,7 @@ New Parts!
 
 	==Electrical==
 	*CA-E400MG 1x2 Solar Panels (Inspired by MAVEN)
+	*CA-E320/340 Solar Panels (Inspired by Venus/Mars Express)
 
 	==Propulsion parts==
 	*3 Small RCS systems (RS01, RS04, RST)
@@ -56,6 +57,7 @@ Updates:
 -Increased RW1a torque to 1.4, tweaked stats
 -Increased RW3 torque to 4, tweaked stats
 -Increased AACS SAS level to 3, cost and weight
+-Balanced Solar panel stats
 -Added Small Reaction Wheels to the E100-SPV Solar Panels to simulate active Solar Pressure Vanes 
 -Fixed attachment node on the CA-ROTFL telescope
 -Fixed the jumpy animation on the Torekka RTG
