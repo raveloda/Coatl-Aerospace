@@ -21,7 +21,7 @@ Beta 0.14RC
 
 New Parts!
 	==Probe Cores==
-	*CA-Q04-M 'Tatsujin' Advanced QBE (Inspired by MAVEN)
+	*CA-Q04-M 'Tatsujin' Advanced QBE (Inspired by MAVEN and Venus Express)
 
 	==Antenna==
 	*CA-A200 Quetzal Dish (Inspired by Pioneer 10, re-design)
@@ -35,6 +35,10 @@ New Parts!
 	*3 Small RCS systems (RS01, RS04, RST)
 	*3 Medium RCS system (RM01, RM03, RM04)
 	*CAE-LV35 "Linkor" Service Module (Inspired by Fregat)
+	*CA-LV10 "Lahar" LF Engine (Inspired by Akatsuki)
+	*CA-MV15 "Trident" MP Engine (Inspired by MAVEN)
+	*CA-MT170 Monopropellant Tank (Inspired by MAVEN)
+	*CA-LT80 Liquid Fuel tank
 	
 	==Utility and Control==
 	*CA-RW2 Dual Reaction Wheels
@@ -80,7 +84,7 @@ Credits:
 -Jso: Feedback, Tweakscale configs, and fixing the Ground Plane animation!
 -Rakol: RemoteTech configs
 -Rasta013: AntennaRange configs
--komodo: DMagic contract fixes, Magnetometer Node fix
+-komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
 -TheDevHole crew: Dank memes
 
 Thanks to everyone who supports and provides feedback and ecouragement on the Forums!
