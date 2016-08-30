@@ -39,6 +39,7 @@ New Parts!
 	*CA-MV15 "Trident" MP Engine (Inspired by MAVEN)
 	*CA-MT170 Monopropellant Tank (Inspired by MAVEN)
 	*CA-LT80 Liquid Fuel tank
+	*CA-MT10 Small Radial MP Tank
 	
 	==Utility and Control==
 	*CA-RW2 Dual Reaction Wheels
@@ -68,6 +69,7 @@ Updates:
 -Fixed attachment node angle on the Torekka RTG. NOTE: You need to attach it from the side for it to work (Thanks komodo!)
 -Fixed DMagic contract support (Thanks komodo!)
 -Added part search tags for the real-life inspiration mission to some parts
+-Updated ScienceDefs (Micrometeoroid experiement added, spelling errors corrected)
 
 -CA-A200 Antenna weight slightly reduced and cost slightly increased to balance new functionality (Added RCS)
 
@@ -79,7 +81,7 @@ Credits:
 ============
 
 -DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
--CobaltWolf: For all the encouragement, help and inspiration
+-CobaltWolf: For all the encouragement, help and inspiration, BDB ScienceDef
 -masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
 -Jso: Feedback, Tweakscale configs, and fixing the Ground Plane animation!
 -Rakol: RemoteTech configs
