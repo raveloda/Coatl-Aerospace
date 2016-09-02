@@ -72,8 +72,9 @@ Updates:
 -Updated ScienceDefs (Micrometeoroid experiement added, spelling errors corrected)
 
 -CA-A200 Antenna weight slightly reduced and cost slightly increased to balance new functionality (Added RCS)
+-Original CA-A200 Antenna is being removed. Currently in as legacy support. It will return redesigned on a later update
 
--Updated RT and AR configs
+-Updated RP, RT and AR configs
 -Added Coatl Aerokosmicheskogo Vostok flag
 
 ============
