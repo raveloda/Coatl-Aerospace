@@ -19,16 +19,23 @@ Changelog:
 ============
 Beta 0.14.1
 
+New Parts!
+	==Antenna==
+	*CA-AD1-R Small Folding Relay Antenna (Early Tech Relay)
+
 Updates:
 
 - Updated Modules for appropiate parts to match 1.2 stock
 - Added KerbNET access to applicable parts
+- Added 13 Part Upgrade nodes and setup several parts to be upgradeable
 - Updated antenna stats for the new antenna system
 	* Some weight reductions done
 - Updated part categories
 - Fixed issue in Propulsion specular texture
 - Fixed some RCS FX offset
 - Removed AntennaRange support (Mod no longer updating)
+
+-Updated the included Firespitter and DMagicScienceAnimate DLLs to latest versions
 
 ============
 Credits:
