@@ -23,6 +23,12 @@ New Parts!
 	==Antenna==
 	*CA-AD1-R Small Folding Relay Antenna (Early Tech Relay)
 
+	==Propulsion==
+	*CA-MV04 MonoProp Engine (Inspired by Mariner)
+	
+	==Thermal==
+	*CA-TCL4/CA-TCL4-B/CA-TCL8 Three Thermal Louver sizes (Inspired by Mariner and Voyager)
+
 Updates:
 
 - Updated Modules for appropiate parts to match 1.2 stock
@@ -31,11 +37,15 @@ Updates:
 - Updated antenna stats for the new antenna system
 	* Some weight reductions done
 - Updated part categories
+- Moved Thermometer and Barometer to earlier tech nodes to match stock changes
 - Fixed issue in Propulsion specular texture
 - Fixed some RCS FX offset
 - Removed AntennaRange support (Mod no longer updating)
+- Monopropellant bottle research cost reduced and moved to General Rocketry
+- Corrected some spelling errors in part text
 
 -Updated the included Firespitter and DMagicScienceAnimate DLLs to latest versions
+-Added config Support for EngineerRedux and MechJeb2
 
 ============
 Credits:
