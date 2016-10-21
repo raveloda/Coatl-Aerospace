@@ -12,7 +12,7 @@ Known Issues:
 Please note that the mod is still in BETA and there will be constant changes and updates. If you encounter any issues, please report them on the Github page or the forums!
 
 https://github.com/raveloda/Coatl-Aerospace
-http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-probesplus-dev-thread-v012-beta-32716/
+http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-probesplus-dev-thread-v014-beta-9216/
 
 ============
 Changelog:
