@@ -17,6 +17,36 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-
 ============
 Changelog:
 ============
+Beta 0.14.2
+
+Updates:
+
+- Disable weight reduction upgrades temporarily to fix a KSP bug or syntax error
+- Tweaked Physics, drag and thermal settings of several parts
+
+============
+Credits:
+============
+
+-DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
+-CobaltWolf: For all the encouragement, help and inspiration, BDB ScienceDef
+-masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
+-Jso: Feedback, Tweakscale configs, and fixing the Ground Plane animation!
+-Rakol: RemoteTech configs
+-Rasta013: AntennaRange configs
+-komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
+-TheDevHole crew: Dank memes
+
+Thanks to everyone who supports and provides feedback and ecouragement on the Forums!
+
+============
+License:
+============
+ProbesPlus! is distributed under a CC-BY-NC-SA 4.0 license. Please let me know if you release anything based on my work
+Firespitter and DMagicScienceAnimate are re-distributed under their respective licenses
+
+
+----------------------------------Older Change Logs:----------------------------------
 Beta 0.14.1
 
 New Parts!
@@ -47,29 +77,6 @@ Updates:
 -Updated the included Firespitter and DMagicScienceAnimate DLLs to latest versions
 -Added config Support for EngineerRedux and MechJeb2
 
-============
-Credits:
-============
-
--DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
--CobaltWolf: For all the encouragement, help and inspiration, BDB ScienceDef
--masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
--Jso: Feedback, Tweakscale configs, and fixing the Ground Plane animation!
--Rakol: RemoteTech configs
--Rasta013: AntennaRange configs
--komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
--TheDevHole crew: Dank memes
-
-Thanks to everyone who supports and provides feedback and ecouragement on the Forums!
-
-============
-License:
-============
-ProbesPlus! is distributed under a CC-BY-NC-SA 4.0 license. Please let me know if you release anything based on my work
-Firespitter and DMagicScienceAnimate are re-distributed under their respective licenses
-
-
-----------------------------------Older Change Logs:----------------------------------
 Beta 0.14
 
 New Parts!
