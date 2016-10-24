@@ -21,6 +21,10 @@ Beta 0.14.2
 
 Updates:
 
+- Fixed issue with standalone SAS units (Thanks puetzk)
+- Fixed texture reference issue with the CA-AD1-R antenna (Thanks puetzk)
+- Change root folder structure to reduce conflicts with multiple Coatl Aerospace mods (upcoming)
+- Removed unecessary Firespitter files
 - Disable weight reduction upgrades temporarily to fix a KSP bug or syntax error
 - Tweaked Physics, drag and thermal settings of several parts
 
