@@ -17,17 +17,35 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-
 ============
 Changelog:
 ============
-Beta 0.14.2
+Beta 0.14.3/0.15???
 
-Updates:
+New Parts!
+*Many new parts inspired by Venera/Vega
 
-- Fixed issue with standalone SAS units (Thanks puetzk)
-- Fixed texture reference issue with the CA-AD1-R antenna (Thanks puetzk)
-- Fixed DM module reference in the GRS experiment
-- Change root folder structure to reduce conflicts with multiple Coatl Aerospace mods (upcoming)
-- Removed unecessary Firespitter files
-- Disable weight reduction upgrades temporarily to fix a KSP bug or syntax error
-- Tweaked Physics, drag and thermal settings of several parts
+	==Probe Cores==
+	*CAE-L165 Fomalhaut Lander 
+	*CAE-200 'Vorona' Probe core 
+	
+	==Antenna==
+	*CAE-A03 Communication Array 
+	*CAE-102 Vorona Dish Antenna 
+	
+	==Electrical==
+	*CAE-E1200 Vorona Solar-Thermal System
+
+	==Propulsion==
+	*CAE-LT98 Vorona Liquid Fuel Tank
+	*CAE-LV175A "Kurt" Vorona Liquid Fuel Engine (Based on the Russian KTDU-425A engine)
+
+	==Science==
+	*CAE-MG03 Magnetometer 
+
+	==Thermal==
+	*CAE-HS100 Fomalhaut Heat Shield 
+
+	==Utility and Control==1
+	*CAE-D13-F Stack Decoupler 
+	*CAE-P16 Fomalhaut Parachute 
 
 ============
 Credits:
@@ -52,6 +70,18 @@ Firespitter and DMagicScienceAnimate are re-distributed under their respective l
 
 
 ----------------------------------Older Change Logs:----------------------------------
+Beta 0.14.2
+
+Updates:
+
+- Fixed issue with standalone SAS units (Thanks puetzk)
+- Fixed texture reference issue with the CA-AD1-R antenna (Thanks puetzk)
+- Fixed DM module reference in the GRS experiment
+- Change root folder structure to reduce conflicts with multiple Coatl Aerospace mods (upcoming)
+- Removed unecessary Firespitter files
+- Disable weight reduction upgrades temporarily to fix a KSP bug or syntax error
+- Tweaked Physics, drag and thermal settings of several parts
+
 Beta 0.14.1
 
 New Parts!
