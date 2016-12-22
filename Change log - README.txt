@@ -20,25 +20,33 @@ Changelog:
 Beta 0.14.3/0.15???
 
 New Parts!
-*Many new parts inspired by Venera/Vega
+*Many new parts inspired by Venera/Vega and Surveyor
 
 	==Probe Cores==
-	*CAE-L165 Fomalhaut Lander 
-	*CAE-200 'Vorona' Probe core 
+	*CAE-L165 Fomalhaut Lander (Inspired by the Venera Lander)  
+	*CAE-200 'Vorona' Probe core (Inspired by Vega)  
+	*CA-L100 'Landvermesser' Lander (Inspired by Surveyor)   
 	
 	==Antenna==
-	*CAE-A03 Communication Array 
-	*CAE-102 Vorona Dish Antenna 
+	*CAE-A03 Communication Array  
+	*CAE-102 Vorona Dish Antenna  
+	*CA-AE20 HGA Antenna and Solar Panel  
+	*CA-A07 Landvermesser Omni Antenna  
 	
 	==Electrical==
-	*CAE-E1200 Vorona Solar-Thermal System
+	*CAE-E1200 Vorona Solar-Thermal System  
+	*CA-55i Landvermesser Battery  
 
 	==Propulsion==
 	*CAE-LT98 Vorona Liquid Fuel Tank
 	*CAE-LV175A "Kurt" Vorona Liquid Fuel Engine (Based on the Russian KTDU-425A engine)
+	*CA-SB15 Landvermesser Solid Rocket Retromotor  
+	*CA-LV03 Landvermesser Vernier Engine  
 
 	==Science==
 	*CAE-MG03 Magnetometer 
+	*CA-CAM-S1 Landing Site Survey Camera (New experiment!)  
+	*CA-SC28-L Topsoil Scoop (New experiment!)  
 
 	==Thermal==
 	*CAE-HS100 Fomalhaut Heat Shield 
@@ -46,6 +54,8 @@ New Parts!
 	==Utility and Control==1
 	*CAE-D13-F Stack Decoupler 
 	*CAE-P16 Fomalhaut Parachute 
+
+*New science experiment definitions for new parts  
 
 ============
 Credits:
@@ -58,6 +68,7 @@ Credits:
 -Rakol: RemoteTech configs
 -Rasta013: AntennaRange configs
 -komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
+-Stone Blue: Bug finding and testing
 -TheDevHole crew: Dank memes
 
 Thanks to everyone who supports and provides feedback and ecouragement on the Forums!
