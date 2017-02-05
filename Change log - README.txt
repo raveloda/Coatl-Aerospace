@@ -17,7 +17,7 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-
 ============
 Changelog:
 ============
-Beta 0.14.3/0.15???
+Beta 0.15
 
 New Parts!
 *Many new parts inspired by Venera/Vega and Surveyor
@@ -32,14 +32,16 @@ New Parts!
 	*CAE-102 Vorona Dish Antenna  
 	*CA-AE20 HGA Antenna and Solar Panel  
 	*CA-A07 Landvermesser Omni Antenna  
+        *New toggle options for the cone antenna  
 	
 	==Electrical==
 	*CAE-E1200 Vorona Solar-Thermal System  
 	*CA-55i Landvermesser Battery  
 
 	==Propulsion==
-	*CAE-LT98 Vorona Liquid Fuel Tank
-	*CAE-LV175A "Kurt" Vorona Liquid Fuel Engine (Based on the Russian KTDU-425A engine)
+	*CAE-LT98 Vorona Liquid Fuel Tank  
+	*CAE-LV175A "Kurt" Vorona Liquid Fuel Engine (Based on the Russian KTDU-425A engine)  
+	*New 2-way Medium RCS
 	*CA-SB15 Landvermesser Solid Rocket Retromotor  
 	*CA-LV03 Landvermesser Vernier Engine  
 
@@ -56,6 +58,14 @@ New Parts!
 	*CAE-P16 Fomalhaut Parachute 
 
 *New science experiment definitions for new parts  
+
+Updates:  
+
+-Updated the included Firespitter and DMagicScienceAnimate DLLs to latest versions  
+-Fixed a deprecated texture reference in the ESM part
+-Updated BDB compatibility config (Thanks to Aelfhe1m)
+-Removed old A200 Antenna model and texture (WARNING: May break old crafts)
+
 
 ============
 Credits:
