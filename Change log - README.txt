@@ -36,6 +36,7 @@ New Parts!
 	
 	==Electrical==
 	*CAE-E1200 Vorona Solar-Thermal System  
+	*CAE-E175 Fomalhaut Solar Panel
 	*CA-55i Landvermesser Battery  
 
 	==Propulsion==
@@ -64,7 +65,10 @@ Updates:
 -Updated the included Firespitter and DMagicScienceAnimate DLLs to latest versions  
 -Fixed a deprecated texture reference in the ESM part
 -Updated BDB compatibility config (Thanks to Aelfhe1m)
+-Removed references to impactTolerance to prevent errors (Thanks KineticSloth)
 -Removed old A200 Antenna model and texture (WARNING: May break old crafts)
+
+-NOTE: Old Cone Antenna will be retired on the next release, please use the toggle version on all new crafts
 
 
 ============
