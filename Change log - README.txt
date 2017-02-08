@@ -50,6 +50,7 @@ New Parts!
 	*CAE-MG03 Magnetometer 
 	*CA-CAM-S1 Landing Site Survey Camera (New experiment!)  
 	*CA-SC28-L Topsoil Scoop (New experiment!)  
+	*CAE-SC-VIS Vorona Imaging System (Based on Vega 1 & 2)
 
 	==Thermal==
 	*CAE-HS100 Fomalhaut Heat Shield 
