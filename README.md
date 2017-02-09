@@ -4,7 +4,7 @@ This is a stock-alike (ish) probe expansion pack inspired by real missions from 
 ##How to Download  
   
 ###Latest Public Release  
-[Download the latest Official Mod release here](https://github.com/raveloda/Coatl-Aerospace/releases/)  
+[Download the latest public release here](https://github.com/raveloda/Coatl-Aerospace/releases/)  
   
 ###Latest Developer Release  
 The Github page is regulary updated with fixes and parts in progress between public releases. This is the definite latest version of the mod. To participate in testing or to try out the newest stuff, click the green "Clone or Download" button at the top-right of this page. Choose the "Download ZIP" option.  
