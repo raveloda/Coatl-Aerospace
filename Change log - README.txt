@@ -61,13 +61,24 @@ New Parts!
 
 *New science experiment definitions for new parts  
 
-Updates:  
+Update/Fixes:  
 
 -Updated the included Firespitter and DMagicScienceAnimate DLLs to latest versions  
--Fixed a deprecated texture reference in the ESM part
--Updated BDB compatibility config (Thanks to Aelfhe1m)
--Removed references to impactTolerance to prevent errors (Thanks KineticSloth)
--Removed old A200 Antenna model and texture (WARNING: May break old crafts)
+-Fixed a deprecated texture reference in the ESM part  
+-Update several textures to reduce or eliminate the original foil for better compatibility with stock and other mods  
+-Updated paneling textures of parts with texture toggle  
+-Added 2 new optional textures toggles: Thermal blanketing, Alternate Gold foil  
+-Redesigned the "Stock Grey" texture to better match Squad parts  
+-Added texture toggle to: Quetzal Magnetometer  
+-Updated BDB compatibility config (Thanks to Aelfhe1m)  
+-Updated MM compatibilty patches to include new parts
+-Removed references to impactTolerance to prevent errors (Thanks KineticSloth)  
+-Removed old A200 Antenna model and texture (WARNING: May break old crafts)  
+-Tweaked the location of the sunCatcher mesh on the CA-E100 and CA-E100-SPV solar panels to help them receive sunlight under more conditions  
+
+Balancing:
+
+-Reduced Barquetta Monopropellant capacity to 10 units
 
 -NOTE: Old Cone Antenna will be retired on the next release, please use the toggle version on all new crafts
 
