@@ -65,6 +65,7 @@ Update/Fixes:
 
 -Updated the included Firespitter and DMagicScienceAnimate DLLs to latest versions  
 -Fixed a deprecated texture reference in the ESM part  
+-Fixed thrust offset on the "Lahar" Engine
 -Update textures to reduce or eliminate the original foil for better compatibility with stock and other mods  
 -Updated paneling textures of parts with texture toggle  
 -Added 2 new optional textures toggles: Thermal blanketing, Alternate Gold foil  
