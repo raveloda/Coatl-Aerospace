@@ -32,6 +32,7 @@ New Parts!
 	*CAE-102 Vorona Dish Antenna  
 	*CA-AE20 HGA Antenna and Solar Panel  
 	*CA-A07 Landvermesser Omni Antenna  
+	*CA-KPS GPS-styled KerbNet antenna  
         *New toggle options for the cone antenna  
 	
 	==Electrical==
@@ -51,6 +52,10 @@ New Parts!
 	*CA-CAM-S1 Landing Site Survey Camera (New experiment!)  
 	*CA-SC28-L Topsoil Scoop (New experiment!)  
 	*CAE-SC-VIS Vorona Imaging System (Based on Vega 1 & 2)
+  
+	==SCANsat==  
+	*CA-HOLA Laser Altimeter (Based on Mars Surveyor)  
+	*CA-H2RS High-Res Radar Altimeter (Based on MetOp)  
 
 	==Thermal==
 	*CAE-HS100 Fomalhaut Heat Shield 
