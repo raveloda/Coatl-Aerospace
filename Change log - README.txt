@@ -63,6 +63,7 @@ New Parts!
 	==Utility and Control==1
 	*CAE-D13-F Stack Decoupler 
 	*CAE-P16 Fomalhaut Parachute 
+	*CAE-PD7 Fomalhaut Drogue Parachute  
 
 *New science experiment definitions for new parts  
 
