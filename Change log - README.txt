@@ -56,6 +56,7 @@ New Parts!
 	==SCANsat==  
 	*CA-HOLA Laser Altimeter (Based on Mars Surveyor)  
 	*CA-H2RS High-Res Radar Altimeter (Based on MetOp)  
+	*CAE-SAR15 Vorona Radar Antenna (Based on Venera 15/16)
 
 	==Thermal==
 	*CAE-HS100 Fomalhaut Heat Shield 
