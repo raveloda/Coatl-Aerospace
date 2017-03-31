@@ -42,10 +42,12 @@ New Parts!
 
 	==Propulsion==
 	*CAE-LT98 Vorona Liquid Fuel Tank  
+	*CAE-MT12 Radial Monopropellant Tank
 	*CAE-LV175A "Kurt" Vorona Liquid Fuel Engine (Based on the Russian KTDU-425A engine)  
 	*New 2-way Medium RCS
 	*CA-SB15 Landvermesser Solid Rocket Retromotor  
 	*CA-LV03 Landvermesser Vernier Engine  
+	*Torekka/Voyager Propulsion Module and adapter truss  
 
 	==Science==
 	*CAE-MG03 Magnetometer 
@@ -65,6 +67,7 @@ New Parts!
 	*CAE-D13-F Stack Decoupler 
 	*CAE-P16 Fomalhaut Parachute 
 	*CAE-PD7 Fomalhaut Drogue Parachute  
+	*CA-ESM2 Quetzal Stack-mounted Service Module  
 
 *New science experiment definitions for new parts  
 
