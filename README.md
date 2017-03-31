@@ -1,12 +1,12 @@
 ![Coatl Aerospace](http://imgur.com/Hrhr9ku.png)  
 This is a stock-alike (ish) probe expansion pack inspired by real missions from the mid-1960s to now. I will start with basic probe cores, and utility parts and the move on to animated science parts and solar panels. Expect parts inspired by (but no realistic replicas of) Voyager, Galileo, Pioneer 10, Venera, Hubble, Kepler, New Horizons, Juno, And more...  
   
-##How to Download  
+## How to Download  
   
-###Latest Public Release  
+### Latest Public Release  
 [Download the latest public release here](https://github.com/raveloda/Coatl-Aerospace/releases/)  
   
-###Latest Developer Release  
+### Latest Developer Release  
 The Github page is regulary updated with fixes and parts in progress between public releases. This is the definite latest version of the mod. To participate in testing or to try out the newest stuff, click the green "Clone or Download" button at the top-right of this page. Choose the "Download ZIP" option.  
   
 ![Download Button](http://imgur.com/PQW2Y2G.png)  
