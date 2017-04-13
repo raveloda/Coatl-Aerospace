@@ -58,6 +58,7 @@ New Parts!
 	==SCANsat==  
 	*CA-HOLA Laser Altimeter (Based on Mars Surveyor)  
 	*CA-H2RS High-Res Radar Altimeter (Based on MetOp)  
+	*CA-TRIXIE Multispectral Imager (Based on New Horizons)
 	*CAE-SAR15 Vorona Radar Antenna (Based on Venera 15/16)
 
 	==Thermal==
@@ -75,6 +76,7 @@ Update/Fixes:
 
 -Updated the included Firespitter and DMagicScienceAnimate DLLs to latest versions  
 -Fixed a deprecated texture reference in the ESM part  
+-Changed Tatsujin Dish to use FS mesh switching instead of a fairing  
 -Fixed thrust offset on the "Lahar" Engine
 -Update textures to reduce or eliminate the original foil for better compatibility with stock and other mods  
 -Updated paneling textures of parts with texture toggle  
