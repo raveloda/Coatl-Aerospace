@@ -94,7 +94,7 @@ Balancing:
 
 -Reduced Barquetta Monopropellant capacity to 10 units
 
--NOTE: Old Cone Antenna will be retired on the next release, please use the new toggle version on all new crafts
+-NOTE: Old Cone Omni Antenna will be retired on the next release, please use the new toggle version on all new crafts
 
 
 ============
@@ -102,13 +102,14 @@ Credits:
 ============
 
 -DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
+-Beale: For donating Fomalhaut and the Vorona dish for me to modify and use
 -CobaltWolf: For all the encouragement, help and inspiration, BDB ScienceDef
 -masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
--Jso: Feedback, Tweakscale configs, and fixing the Ground Plane animation!
+-Jso: Great feedback, Tweakscale configs, and fixing the Ground Plane animation!
 -Rakol: RemoteTech configs
 -Rasta013: AntennaRange configs
 -komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
--Stone Blue: Bug finding and testing
+-Stone Blue: Bug finding, suggestions and testing
 -TheDevHole crew: Dank memes
 
 Thanks to everyone who supports and provides feedback and ecouragement on the Forums!
