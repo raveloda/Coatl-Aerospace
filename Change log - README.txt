@@ -17,6 +17,38 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-
 ============
 Changelog:
 ============
+Beta 0.15.1
+
+Updates/Fixes: 
+  
+* Corrected and added more Science results for GroundOps experiments
+
+
+============
+Credits:
+============
+
+-DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
+-Beale: For donating Fomalhaut and the Vorona dish for me to modify and use
+-CobaltWolf: For all the encouragement, help and inspiration, BDB ScienceDef
+-masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
+-Jso: Great feedback, Tweakscale configs, and fixing the Ground Plane animation!
+-Rakol: RemoteTech configs
+-Rasta013: AntennaRange configs
+-komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
+-Stone Blue: Bug finding, suggestions and testing
+-TheDevHole crew: Dank memes
+
+Thanks to everyone who supports and provides feedback and ecouragement on the Forums!
+
+============
+License:
+============
+ProbesPlus! is distributed under a CC-BY-NC-SA 4.0 license. Please let me know if you release anything based on my work
+Firespitter and DMagicScienceAnimate are re-distributed under their respective licenses
+
+
+----------------------------------Older Change Logs:----------------------------------
 Beta 0.15
 
 New Parts!
@@ -96,32 +128,6 @@ Balancing:
 
 -NOTE: Old Cone Omni Antenna will be retired on the next release, please use the new toggle version on all new crafts
 
-
-============
-Credits:
-============
-
--DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
--Beale: For donating Fomalhaut and the Vorona dish for me to modify and use
--CobaltWolf: For all the encouragement, help and inspiration, BDB ScienceDef
--masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
--Jso: Great feedback, Tweakscale configs, and fixing the Ground Plane animation!
--Rakol: RemoteTech configs
--Rasta013: AntennaRange configs
--komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
--Stone Blue: Bug finding, suggestions and testing
--TheDevHole crew: Dank memes
-
-Thanks to everyone who supports and provides feedback and ecouragement on the Forums!
-
-============
-License:
-============
-ProbesPlus! is distributed under a CC-BY-NC-SA 4.0 license. Please let me know if you release anything based on my work
-Firespitter and DMagicScienceAnimate are re-distributed under their respective licenses
-
-
-----------------------------------Older Change Logs:----------------------------------
 Beta 0.14.2
 
 Updates:
