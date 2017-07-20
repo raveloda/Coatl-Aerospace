@@ -12,16 +12,36 @@ Known Issues:
 Please note that the mod is still in BETA and there will be constant changes and updates. If you encounter any issues, please report them on the Github page or the forums!
 
 https://github.com/raveloda/Coatl-Aerospace
-http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-probesplus-dev-thread-v014-beta-9216/
+http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-probesplus-dev-thread-v015-beta-41417/
 
 ============
 Changelog:
 ============
 Beta 0.15.1
-
+  
+New Parts:  
+  
+==Probe Cores==  
+* CA-100B 'Landvermesser' B Core (Inspired by Surveyor B)  
+  
+==Antenna==  
+* CA-A20-B HGA Antenna (Inspired by Surveyor B)  
+  
+==Electrical==  
+* CA-ET120 Solar Array (Inspired by Surveyor B)
+  
 Updates/Fixes: 
   
-* Corrected and added more Science results for GroundOps experiments
+* Corrected and added more Science results for GroundOps experiments  
+* Updated SCANsat support for the new version 18.0  
+* Fixed a symmetry issue in the Landvermesser lander core  
+* Fixed a texture load error for all the normal maps (Thanks to Gordon Dry for the fix)  
+* Fixed Node orientation on the Landvermesser HGA  
+* Fixed Node and fairing issue on the Landvermesser core  
+* Disabled antenna power upgrades!!!! To prevent a potential CommNet bug. Verify the DSN range to any active distant probes before upgrading to this version!!!  
+* Updated Tweakscale configs (Thanks to JSO)  
+* Updated RemoteTech configs (Thanks to Jimbodiah)  
+* Updated included dependencies of Firespitter (Version 7.6.0) and DMagicScienceAnimate (Version 0.19)  
 
 
 ============
