@@ -17,7 +17,7 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-
 ============
 Changelog:
 ============
-Beta 0.15.1
+Beta 0.16
   
 New Parts:  
   
@@ -26,6 +26,7 @@ New Parts:
   
 ==Antenna==  
 * CA-A20-B HGA Antenna (Inspired by Surveyor B)  
+* CA-MER-A400 HGA Dish (Cassini)  
   
 ==Electrical==  
 * CA-ET120 Solar Array (Inspired by Surveyor B)
@@ -33,7 +34,9 @@ New Parts:
 Updates/Fixes: 
   
 * Corrected and added more Science results for GroundOps experiments  
+* Reduce mass but increased cost of the Torekka Dish to bring it closer to the stock equivalent
 * Updated SCANsat support for the new version 18.0  
+* Updated the RTG8200 model to more closely match Cassini's. The old model will be retired in the next release
 * Fixed a symmetry issue in the Landvermesser lander core  
 * Fixed a texture load error for all the normal maps (Thanks to Gordon Dry for the fix)  
 * Fixed Node orientation on the Landvermesser HGA  
