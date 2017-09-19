@@ -23,6 +23,7 @@ New Parts:
   
 ==Probe Cores==  
 * CA-100B 'Landvermesser' B Core (Inspired by Surveyor B)  
+* CA-MER-08 'Meridiani' (Cassini)
   
 ==Antenna==  
 * CA-A20-B HGA Antenna (Inspired by Surveyor B)  
