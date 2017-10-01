@@ -28,13 +28,19 @@ New Parts:
 ==Antenna==  
 * CA-A20-B HGA Antenna (Inspired by Surveyor B)  
 * CA-MER-A400 HGA Dish (Cassini)  
+* CA-D02 HGA Dish (STEREO)  
   
 ==Electrical==  
 * CA-ET120 Solar Array (Inspired by Surveyor B)
+* CA-E140 Solar Array (STEREO)  
+  
+==Science==  
+* CA-RPWS-S Compact RPW System (STEREO)  
   
 Updates/Fixes: 
   
 * Corrected and added more Science results for GroundOps experiments  
+* Updated some solar panel textures
 * Reduce mass but increased cost of the Torekka Dish to bring it closer to the stock equivalent
 * Updated SCANsat support for the new version 18.0  
 * Updated the RTG8200 model to more closely match Cassini's. The old model will be retired in the next release
