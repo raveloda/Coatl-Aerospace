@@ -21,13 +21,19 @@ Beta 0.16
   
 New Parts:  
   
+==Cassini-Huygens Parts==  
+* 'Meridiani' Probe core  
+* HGA Antenna  
+* Fuel Tank Assembly  
+* Reaction Wheel Assembly (LEU)  
+* CA-MER-R4D 'Dominique' Main Engine  
+
 ==Probe Cores==  
 * CA-100B 'Landvermesser' B Core (Inspired by Surveyor B)  
-* CA-MER-08 'Meridiani' (Cassini)
+* CA-Q20-M 'Xihe' Probe Core (Inspired by STEREO)
   
 ==Antenna==  
 * CA-A20-B HGA Antenna (Inspired by Surveyor B)  
-* CA-MER-A400 HGA Dish (Cassini)  
 * CA-D02 HGA Dish (STEREO)  
   
 ==Electrical==  
