@@ -27,6 +27,7 @@ New Parts:
 * Fuel Tank Assembly  
 * Reaction Wheel Assembly (LEU)  
 * CA-MER-R4D 'Dominique' Main Engine  
+* Magnetometer Boom  
 
 ==Probe Cores==  
 * CA-100B 'Landvermesser' B Core (Inspired by Surveyor B)  
@@ -46,11 +47,12 @@ New Parts:
 Updates/Fixes: 
   
 * Corrected and added more Science results for GroundOps experiments  
-* Updated some solar panel textures
-* Reduce mass but increased cost of the Torekka Dish to bring it closer to the stock equivalent
+* Updated some solar panel textures  
+* Reduce mass but increased cost of the Torekka Dish to bring it closer to the stock equivalent  
 * Updated SCANsat support for the new version 18.0  
-* Updated the RTG8200 model to more closely match Cassini's. The old model will be retired in the next release
+* Updated the RTG8200 model to more closely match Cassini's. The old model will be retired in the next release  
 * Fixed a symmetry issue in the Landvermesser lander core  
+* Fixed attachment on the GRS
 * Fixed a texture load error for all the normal maps (Thanks to Gordon Dry for the fix)  
 * Fixed Node orientation on the Landvermesser HGA  
 * Fixed Node and fairing issue on the Landvermesser core  
