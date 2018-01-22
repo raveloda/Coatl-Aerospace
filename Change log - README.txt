@@ -23,6 +23,8 @@ New Parts:
   
 ==Cassini-Huygens Parts==  
 * 'Meridiani' Probe core  
+* 'Draco' Lander Core  
+* Draco's heashield, aeroshell, and parachutes  
 * HGA Antenna  
 * Fuel Tank Assembly  
 * Reaction Wheel Assembly (LEU)  
@@ -48,6 +50,7 @@ Updates/Fixes:
   
 * Corrected and added more Science results for GroundOps experiments  
 * Updated some solar panel textures  
+* Added PBR configs for Shadowmage's TexturesUnlimited mod  
 * Reduce mass but increased cost of the Torekka Dish to bring it closer to the stock equivalent  
 * Updated SCANsat support for the new version 18.0  
 * Updated the RTG8200 model to more closely match Cassini's. The old model will be retired in the next release  
@@ -57,6 +60,7 @@ Updates/Fixes:
 * Fixed Node orientation on the Landvermesser HGA  
 * Fixed Node and fairing issue on the Landvermesser core  
 * Disabled antenna power upgrades!!!! To prevent a potential CommNet bug. Verify the DSN range to any active distant probes before upgrading to this version!!!  
+* Added Optional Near Future Electrical RTG decay configs (Thanks to notJebKerman)  
 * Updated Tweakscale configs (Thanks to JSO)  
 * Updated RemoteTech configs (Thanks to Jimbodiah)  
 * Updated included dependencies of Firespitter (Version 7.6.0) and DMagicScienceAnimate (Version 0.19)  
