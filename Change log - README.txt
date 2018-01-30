@@ -33,15 +33,19 @@ New Parts:
 
 ==Probe Cores==  
 * CA-100B 'Landvermesser' B Core (Inspired by Surveyor B)  
-* CA-Q20-M 'Xihe' Probe Core (Inspired by STEREO)
+* CA-Q20-M 'Xihe' Probe Core (Inspired by STEREO)  
+* CA-602 'Hera' Probe Core (Inspired by Juno)  
+* CA-v601 'Aegis' Probe Core and science container (Juno)  
   
 ==Antenna==  
 * CA-A20-B HGA Antenna (Inspired by Surveyor B)  
 * CA-D02 HGA Dish (STEREO)  
+* CA-A190 HGA Dish (Juno)  
   
 ==Electrical==  
-* CA-ET120 Solar Array (Inspired by Surveyor B)
+* CA-ET120 Solar Array (Inspired by Surveyor B)  
 * CA-E140 Solar Array (STEREO)  
+* CA-E12 Solar Array and magnetometer (Juno)  
   
 ==Science==  
 * CA-RPWS-S Compact RPW System (STEREO)  
@@ -49,18 +53,23 @@ New Parts:
 Updates/Fixes: 
   
 * Corrected and added more Science results for GroundOps experiments  
+* Added Science experiment result support for Outer Planets Mod  
+* Removed Dmagic Orbital Science as a dependency (For simplicity, I still recommend DMagic's Mod)  
 * Updated some solar panel textures  
 * Added PBR configs for Shadowmage's TexturesUnlimited mod  
-* Reduce mass but increased cost of the Torekka Dish to bring it closer to the stock equivalent  
+* Added new set of textures for texture toggle  
+* Reduced mass but increased cost of the Torekka Dish to bring it closer to the stock equivalent  
+* Reduced mass of the Tatsujin dish  
 * Updated SCANsat support for the new version 18.0  
 * Updated the RTG8200 model to more closely match Cassini's. The old model will be retired in the next release  
 * Fixed a symmetry issue in the Landvermesser lander core  
-* Fixed attachment on the GRS
+* Fixed attachment node on the GRS  
 * Fixed a texture load error for all the normal maps (Thanks to Gordon Dry for the fix)  
 * Fixed Node orientation on the Landvermesser HGA  
 * Fixed Node and fairing issue on the Landvermesser core  
 * Disabled antenna power upgrades!!!! To prevent a potential CommNet bug. Verify the DSN range to any active distant probes before upgrading to this version!!!  
 * Added Optional Near Future Electrical RTG decay configs (Thanks to notJebKerman)  
+* Updated RealPlume configs  
 * Updated Tweakscale configs (Thanks to JSO)  
 * Updated RemoteTech configs (Thanks to Jimbodiah)  
 * Updated included dependencies of Firespitter (Version 7.6.0) and DMagicScienceAnimate (Version 0.19)  
@@ -72,7 +81,7 @@ Credits:
 
 -DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
 -Beale: For donating Fomalhaut and the Vorona dish for me to modify and use
--CobaltWolf: For all the encouragement, help and inspiration, BDB ScienceDef
+-CobaltWolf: For Huygen's texture, BDB ScienceDef, and all sorts of other help and shenanigans
 -masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
 -Jso: Great feedback, Tweakscale configs, and fixing the Ground Plane animation!
 -Rakol: RemoteTech configs
