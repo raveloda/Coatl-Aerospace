@@ -30,6 +30,7 @@ New Parts:
 * Reaction Wheel Assembly (LEU)  
 * CA-MER-R4D 'Dominique' Main Engine  
 * Magnetometer Boom  
+* Payload adapter/decoupler
 
 ==Probe Cores==  
 * CA-100B 'Landvermesser' B Core (Inspired by Surveyor B)  
@@ -60,9 +61,12 @@ Updates/Fixes:
 * Added new set of textures for texture toggle  
 * Reduced mass but increased cost of the Torekka Dish to bring it closer to the stock equivalent  
 * Reduced mass of the Tatsujin dish  
+* Reduced Lahar Engine thrust to begin engine balance to more realistic values. More nerfs coming!  
+* Reduced Trident Engine thrust to begin engine balance to more realistic values. More nerfs coming!  
 * Updated SCANsat support for the new version 18.0  
 * Updated the RTG8200 model to more closely match Cassini's. The old model will be retired in the next release  
-* Fixed a symmetry issue in the Landvermesser lander core  
+* Fixed a symmetry issue in the Landvermesser lander core 
+* Fixed attachment node issue on Landvermesser lander core   
 * Fixed attachment node on the GRS  
 * Fixed a texture load error for all the normal maps (Thanks to Gordon Dry for the fix)  
 * Fixed Node orientation on the Landvermesser HGA  
@@ -73,8 +77,14 @@ Updates/Fixes:
 * Updated Tweakscale configs (Thanks to JSO)  
 * Updated RemoteTech configs (Thanks to Jimbodiah)  
 * Updated included dependencies of Firespitter (Version 7.6.0) and DMagicScienceAnimate (Version 0.19)  
-
-
+  
+=============  
+Known Issues:  
+=============  
+  
+- KSP log throws a lot of texture errors. This seems to be be due to my heavy use of texture swapping modules. As far as I know, texture are loading fine despite the error  
+- Reloading the database from the cheat/debug menu may cause some parts and vessel using them to fail to load. I cannot figure out why. Restarting KSP is the safest way to re-load the assets  
+  
 ============
 Credits:
 ============
