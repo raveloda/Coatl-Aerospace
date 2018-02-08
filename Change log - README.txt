@@ -30,7 +30,9 @@ New Parts:
 * Reaction Wheel Assembly (LEU)  
 * CA-MER-R4D 'Dominique' Main Engine  
 * Magnetometer Boom  
-* Payload adapter/decoupler
+* Payload adapter/decoupler  
+* Draco decoupler ring  
+* Remote Sensing Pallet  
 
 ==Probe Cores==  
 * CA-100B 'Landvermesser' B Core (Inspired by Surveyor B)  
@@ -67,15 +69,18 @@ Updates/Fixes:
 * Updated the RTG8200 model to more closely match Cassini's. The old model will be retired in the next release  
 * Fixed a symmetry issue in the Landvermesser lander core 
 * Fixed attachment node issue on Landvermesser lander core   
+* Fixed attachment node issue on Landvermesser omni antenna  
 * Fixed attachment node on the GRS  
 * Fixed a texture load error for all the normal maps (Thanks to Gordon Dry for the fix)  
 * Fixed Node orientation on the Landvermesser HGA  
 * Fixed Node and fairing issue on the Landvermesser core  
 * Disabled antenna power upgrades!!!! To prevent a potential CommNet bug. Verify the DSN range to any active distant probes before upgrading to this version!!!  
+* Retired the old cone antenna  
 * Added Optional Near Future Electrical RTG decay configs (Thanks to notJebKerman)  
 * Updated RealPlume configs  
 * Updated Tweakscale configs (Thanks to JSO)  
 * Updated RemoteTech configs (Thanks to Jimbodiah)  
+* Updated MechJeb and EngineerRedux support  
 * Updated included dependencies of Firespitter (Version 7.6.0) and DMagicScienceAnimate (Version 0.19)  
   
 =============  

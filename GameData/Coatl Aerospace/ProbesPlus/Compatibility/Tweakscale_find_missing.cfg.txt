@@ -1,9 +1,0 @@
-// Identifies parts that lack TweakScale support,
-// re-titles and places them in the Control category
-// for easy identifaction.
-
-@PART[*]:HAS[!MODULE[TweakScale],!MODULE[ModuleProceduralFairing],#manufacturer[Coatl*]]:NEEDS[TweakScale]:Final
-{
-	@title ^= :^:-- NO TweakScale -- :
-	@category = Control
-}
