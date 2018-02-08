@@ -88,7 +88,8 @@ Known Issues:
 =============  
   
 - KSP log throws a lot of texture errors. This seems to be be due to my heavy use of texture swapping modules. As far as I know, texture are loading fine despite the error  
-- Reloading the database from the cheat/debug menu may cause some parts and vessel using them to fail to load. I cannot figure out why. Restarting KSP is the safest way to re-load the assets  
+- Reloading the database from the cheat/debug menu may cause some parts and vessel using them to fail to load. I cannot figure out why. Restarting KSP is the safest way to re-load the assets
+- The Huygens heatshield and aeroshell are better off jettisoned from the right-click menu, rather than staging it. I will continue to test and hopefully solve  
   
 ============
 Credits:
@@ -97,6 +98,7 @@ Credits:
 -DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
 -Beale: For donating Fomalhaut and the Vorona dish for me to modify and use
 -CobaltWolf: For Huygen's texture, BDB ScienceDef, and all sorts of other help and shenanigans
+-Pistachio_Moustache: ScienceDef assitance
 -masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
 -Jso: Great feedback, Tweakscale configs, and fixing the Ground Plane animation!
 -Rakol: RemoteTech configs
@@ -105,7 +107,7 @@ Credits:
 -Stone Blue: Bug finding, suggestions and testing
 -TheDevHole crew: Dank memes
 
-Thanks to everyone who supports and provides feedback and ecouragement on the Forums!
+Thanks to everyone who supports and provides feedback and ecouragement on the Forums! Thanks to my wife and family for putting up with me through long hours of mod work
 
 ============
 License:
