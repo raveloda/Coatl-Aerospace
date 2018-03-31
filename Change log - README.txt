@@ -7,7 +7,10 @@ Thank you for downloading and playtesting! I look forward to your feedback! -Akr
 ============
 Known Issues:
 ============
-- Not enough feedback on the Dev thread! Your feedback will help make the mod better!
+- KSP log throws a lot of texture errors. This seems to be be due to my heavy use of texture swapping modules. As far as I know, texture are loading fine despite the error  
+- Reloading the database from the cheat/debug menu may cause some parts and vessel using them to fail to load. I cannot figure out why. Restarting KSP is the safest way to re-load the assets
+- The Huygens heatshield and aeroshell are better off jettisoned from the right-click menu, rather than staging it. I will continue to test and hopefully solve 
+- Need more feedback on the Dev thread! Your feedback will help make the mod better!
 
 Please note that the mod is still in BETA and there will be constant changes and updates. If you encounter any issues, please report them on the Github page or the forums!
 
@@ -17,6 +20,18 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-
 ============
 Changelog:
 ============
+Beta 0.16.1
+
+Updates/Fixes:
+
+* Tweaked for KSP version 1.4.0-1.4.2  
+* Fixed issue with the Parachute texture  
+* TexturesUnlimited configurations were updated to use new synthax  
+* Tweaked a few of the TexturesUnlimited Shader settings  
+* Removed some texture replacement referencing from some parts to prevent part loader errors  
+
+
+----------------------------------Older Change Logs:----------------------------------
 Beta 0.16
   
 New Parts:  
@@ -116,7 +131,6 @@ ProbesPlus! is distributed under a CC-BY-NC-SA 4.0 license. Please let me know i
 Firespitter and DMagicScienceAnimate are re-distributed under their respective licenses
 
 
-----------------------------------Older Change Logs:----------------------------------
 Beta 0.15
 
 New Parts!
