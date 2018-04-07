@@ -25,6 +25,13 @@ Beta 0.16.1
 Updates/Fixes:
 
 * Tweaked for KSP version 1.4.0-1.4.2  
+* Changed all parts with RCS nozzles to use the new RCS module  
+* Changed all engines to use new engine module  
+* Reduced 'Lahar' engine ISP to 305 @ vacuum  and thrust to 6 kN  
+* Reduced 'Linkor' engine ISP to 325 @ vacuum  
+* Reduced 'Trident' engine thrust to 9 kN  
+* Added upgrade options to the 'Landvermesser' vernier engine  
+* Tweaked some RCS stats for blance  
 * Fixed issue with the Parachute texture  
 * TexturesUnlimited configurations were updated to use new synthax  
 * Tweaked a few of the TexturesUnlimited Shader settings  
