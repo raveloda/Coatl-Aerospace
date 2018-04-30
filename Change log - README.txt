@@ -22,9 +22,17 @@ Changelog:
 ============
 Beta 0.16.1
 
+New Parts:  
+
+==IUE Parts==  
+* 'Explorer' Telescope Probe  
+* IUE Solar Panels  
+* 'Stella 24C' Solid Rocket Motor  
+
 Updates/Fixes:
 
-* Tweaked for KSP version 1.4.0-1.4.2  
+* Tweaked for KSP version 1.4.0-1.4.3  
+* Added ResearchBodies and Tarsier Space Technologies compatibility (For the new IUE part)  
 * Changed all parts with RCS nozzles to use the new RCS module  
 * Changed all engines to use new engine module  
 * Reduced 'Lahar' engine ISP to 305 @ vacuum  and thrust to 6 kN  
