@@ -2,8 +2,6 @@
 Coatl Aerospace ProbesPlus! BETA
 *********************************
 
-Thank you for downloading and playtesting! I look forward to your feedback! -Akron
-
 ============
 Known Issues:
 ============
@@ -12,10 +10,10 @@ Known Issues:
 - The Huygens heatshield and aeroshell are better off jettisoned from the right-click menu, rather than staging it. I will continue to test and hopefully solve 
 - Need more feedback on the Dev thread! Your feedback will help make the mod better!
 
-Please note that the mod is still in BETA and there will be constant changes and updates. If you encounter any issues, please report them on the Github page or the forums!
+Please note that the mod is still in development and there will be constant changes and updates. If you encounter any issues, please report them on the Github page or the forums!
 
 https://github.com/raveloda/Coatl-Aerospace
-http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-probesplus-dev-thread-v015-beta-41417/
+https://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-probesplus-dev-thread-v016-beta-282018-13141/
 
 ============
 Changelog:
@@ -33,6 +31,7 @@ Updates/Fixes:
 
 * Tweaked for KSP version 1.4.0-1.4.3  
 * Added ResearchBodies and Tarsier Space Technologies compatibility (For the new IUE part)  
+* Added some MKS module support. Thanks to LouisCyfer
 * Changed all parts with RCS nozzles to use the new RCS module  
 * Changed all engines to use new engine module  
 * Reduced 'Lahar' engine ISP to 305 @ vacuum  and thrust to 6 kN  
@@ -44,6 +43,32 @@ Updates/Fixes:
 * TexturesUnlimited configurations were updated to use new synthax  
 * Tweaked a few of the TexturesUnlimited Shader settings  
 * Removed some texture replacement referencing from some parts to prevent part loader errors  
+
+============
+Credits:
+============
+
+-DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
+-Beale: For donating Fomalhaut and the Vorona dish for me to modify and use
+-CobaltWolf: For Huygen's texture, BDB ScienceDef, and all sorts of other help and shenanigans
+-Pistachio_Moustache: ScienceDef assitance
+-masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
+-Jso: Great feedback, Tweakscale configs, and fixing the Ground Plane animation!
+-Rakol: RemoteTech configs
+-Rasta013: AntennaRange configs
+-komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
+-Stone Blue: Bug finding, suggestions and testing
+-TheDevHole crew: Dank memes
+
+Thanks to everyone who supports and provides feedback and ecouragement on the Forums! Thanks to my wife and family for putting up with me through long hours of mod work
+
+Also, thank you for downloading and playtesting! I look forward to your feedback! -Akron
+
+============
+License:
+============
+ProbesPlus! is distributed under a CC-BY-NC-SA 4.0 license. Please let me know if you release anything based on my work
+Firespitter and DMagicScienceAnimate are re-distributed under their respective licenses
 
 
 ----------------------------------Older Change Logs:----------------------------------
@@ -112,39 +137,6 @@ Updates/Fixes:
 * Updated RemoteTech configs (Thanks to Jimbodiah)  
 * Updated MechJeb and EngineerRedux support  
 * Updated included dependencies of Firespitter (Version 7.6.0) and DMagicScienceAnimate (Version 0.19)  
-  
-=============  
-Known Issues:  
-=============  
-  
-- KSP log throws a lot of texture errors. This seems to be be due to my heavy use of texture swapping modules. As far as I know, texture are loading fine despite the error  
-- Reloading the database from the cheat/debug menu may cause some parts and vessel using them to fail to load. I cannot figure out why. Restarting KSP is the safest way to re-load the assets
-- The Huygens heatshield and aeroshell are better off jettisoned from the right-click menu, rather than staging it. I will continue to test and hopefully solve  
-  
-============
-Credits:
-============
-
--DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
--Beale: For donating Fomalhaut and the Vorona dish for me to modify and use
--CobaltWolf: For Huygen's texture, BDB ScienceDef, and all sorts of other help and shenanigans
--Pistachio_Moustache: ScienceDef assitance
--masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
--Jso: Great feedback, Tweakscale configs, and fixing the Ground Plane animation!
--Rakol: RemoteTech configs
--Rasta013: AntennaRange configs
--komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
--Stone Blue: Bug finding, suggestions and testing
--TheDevHole crew: Dank memes
-
-Thanks to everyone who supports and provides feedback and ecouragement on the Forums! Thanks to my wife and family for putting up with me through long hours of mod work
-
-============
-License:
-============
-ProbesPlus! is distributed under a CC-BY-NC-SA 4.0 license. Please let me know if you release anything based on my work
-Firespitter and DMagicScienceAnimate are re-distributed under their respective licenses
-
 
 Beta 0.15
 
