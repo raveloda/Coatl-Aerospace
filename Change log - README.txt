@@ -29,7 +29,9 @@ New Parts:
 
 Updates/Fixes:
 
-* Tweaked for KSP version 1.4.0-1.4.3  
+* Tweaked for KSP version 1.4.x 
+* Updated the included DMagicScienceAnimate to version 0.20  
+* Updated the included FirespitterPlugin to version 7.90  
 * Added ResearchBodies and Tarsier Space Technologies compatibility (For the new IUE part)  
 * Added some MKS module support. Thanks to LouisCyfer
 * Changed all parts with RCS nozzles to use the new RCS module  
