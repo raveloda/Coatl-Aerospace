@@ -26,7 +26,12 @@ New Parts:
 * 'Explorer' Telescope Probe  
 * IUE Solar Panels  
 * 'Stella 24C' Solid Rocket Motor  
-
+  
+==Surveyor B Parts==
+* New probe core  
+* Solar Panel  
+* Planar-array HGA  
+  
 Updates/Fixes:
 
 * Tweaked for KSP version 1.4.x 
