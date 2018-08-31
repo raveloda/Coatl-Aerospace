@@ -5,7 +5,7 @@ Coatl Aerospace ProbesPlus! BETA
 ============
 Known Issues:
 ============
-- KSP log throws a lot of texture errors. This seems to be be due to my heavy use of texture swapping modules. As far as I know, texture are loading fine despite the error  
+- KSP may throw texture errors. This seems to be be due to my heavy use of texture swapping modules. As far as I know, texture are loading fine despite the error  
 - Reloading the database from the cheat/debug menu may cause some parts and vessel using them to fail to load. I cannot figure out why. Restarting KSP is the safest way to re-load the assets
 - The Huygens heatshield and aeroshell are better off jettisoned from the right-click menu, rather than staging it. I will continue to test and hopefully solve 
 - Need more feedback on the Dev thread! Your feedback will help make the mod better!
@@ -18,6 +18,48 @@ https://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace
 ============
 Changelog:
 ============
+Beta 0.17
+
+New Parts:  
+
+==IUE Parts==  
+* 'Argo Mk2' Parts (Bus, Solar panels, HGA, Magnetometer mast, camera), inspired by Mariner 4  
+  
+Updates/Fixes:
+
+* Tweaked for KSP version 1.4.x 
+* Moved the original Mariner-style solar panels up to 'Electrics'   
+* Decreased the old Mariner panel's solar vane reaction wheel power  
+* Added new version of the CA-MV04 MP engine with a 'Control from here' point
+
+============
+Credits:
+============
+
+-DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
+-Beale: For donating Fomalhaut and the Vorona dish for me to modify and use
+-CobaltWolf: For Huygen's texture, BDB ScienceDef, and all sorts of other help and shenanigans
+-Pistachio_Moustache: ScienceDef assitance
+-masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
+-Jso: Great feedback, Tweakscale configs, and fixing the Ground Plane animation!
+-Rakol: RemoteTech configs
+-Rasta013: AntennaRange configs
+-komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
+-Stone Blue: Bug finding, suggestions and testing
+-TheDevHole crew: Dank memes
+
+Thanks to everyone who supports and provides feedback and ecouragement on the Forums! Thanks to my wife and family for putting up with me through long hours of mod work
+
+Also, thank you for downloading and playtesting! I look forward to your feedback! -Akron
+
+============
+License:
+============
+ProbesPlus! is distributed under a CC-BY-NC-SA 4.0 license. Please let me know if you release anything based on my work
+Firespitter and DMagicScienceAnimate are re-distributed under their respective licenses
+
+
+----------------------------------Older Change Logs:----------------------------------
 Beta 0.16.1
 
 New Parts:  
@@ -49,36 +91,8 @@ Updates/Fixes:
 * Fixed issue with the Parachute texture  
 * TexturesUnlimited configurations were updated to use new synthax  
 * Tweaked a few of the TexturesUnlimited Shader settings  
-* Removed some texture replacement referencing from some parts to prevent part loader errors  
+* Removed some texture replacement referencing from some parts to prevent part loader errors 
 
-============
-Credits:
-============
-
--DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
--Beale: For donating Fomalhaut and the Vorona dish for me to modify and use
--CobaltWolf: For Huygen's texture, BDB ScienceDef, and all sorts of other help and shenanigans
--Pistachio_Moustache: ScienceDef assitance
--masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
--Jso: Great feedback, Tweakscale configs, and fixing the Ground Plane animation!
--Rakol: RemoteTech configs
--Rasta013: AntennaRange configs
--komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
--Stone Blue: Bug finding, suggestions and testing
--TheDevHole crew: Dank memes
-
-Thanks to everyone who supports and provides feedback and ecouragement on the Forums! Thanks to my wife and family for putting up with me through long hours of mod work
-
-Also, thank you for downloading and playtesting! I look forward to your feedback! -Akron
-
-============
-License:
-============
-ProbesPlus! is distributed under a CC-BY-NC-SA 4.0 license. Please let me know if you release anything based on my work
-Firespitter and DMagicScienceAnimate are re-distributed under their respective licenses
-
-
-----------------------------------Older Change Logs:----------------------------------
 Beta 0.16
   
 New Parts:  
