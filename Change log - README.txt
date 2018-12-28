@@ -7,8 +7,7 @@ Known Issues:
 ============
 - KSP may throw texture errors. This seems to be be due to my heavy use of texture swapping modules. As far as I know, texture are loading fine despite the error  
 - Reloading the database from the cheat/debug menu may cause some parts and vessel using them to fail to load. I cannot figure out why. Restarting KSP is the safest way to re-load the assets
-- The Huygens heatshield and aeroshell are better off jettisoned from the right-click menu, rather than staging it. I will continue to test and hopefully solve 
-- Need more feedback on the Dev thread! Your feedback will help make the mod better!
+- The Huygens heatshield, aeroshell and the Surveyor SRM are better off jettisoned from the right-click menu, rather than staging it. I will continue to test and hopefully solve 
 
 Please note that the mod is still in development and there will be constant changes and updates. If you encounter any issues, please report them on the Github page or the forums!
 
@@ -22,15 +21,20 @@ Beta 0.17
 
 New Parts:  
 
-==IUE Parts==  
+==Mariner Parts==  
 * 'Argo Mk2' Parts (Bus, Solar panels, HGA, Magnetometer mast, camera), inspired by Mariner 4  
+* 'Argo Mk3' Parts (Bus, Solar panels, HGA), inspired by Mariner 5  
+* 'Argo Mk4' Parts (Bus, Solar panels, HGA, mast, imaging platform), inspired by Mariner 6 and 7  
   
 Updates/Fixes:
 
-* Tweaked for KSP version 1.4.x 
-* Moved the original Mariner-style solar panels up to 'Electrics'   
+* Tweaked for KSP version 1.5 
+* Moved the original Mariner-style solar panels up to 'Electrics' in the tech tree  
 * Decreased the old Mariner panel's solar vane reaction wheel power  
-* Added new version of the CA-MV04 MP engine with a 'Control from here' point
+* Added new version of the CA-MV04 MP engine with a 'Control from here' point  
+* Tweaked ScienceDef files  
+* reduced 'Barquetta' monopropellant capacity to 7  
+* Reworked Landvermesser textures to improve speculars, add normal maps, and TU support
 
 ============
 Credits:
