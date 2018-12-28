@@ -40,9 +40,12 @@ Updates/Fixes:
 Credits:
 ============
 
+Huge thanks to my Patreon supporters for helping me continue to work on the mod!!
+
 -DMagic: For his ScienceAnimate plug-in and his work on DMagic Orbital Science
 -Beale: For donating Fomalhaut and the Vorona dish for me to modify and use
 -CobaltWolf: For Huygen's texture, BDB ScienceDef, and all sorts of other help and shenanigans
+-Gordon-Dry: Many config tweaks and fixes, RemoteTech configs
 -Pistachio_Moustache: ScienceDef assitance
 -masTerTorch: KDEX experiment and definitons, redistributed under his CC BY-NC-SA license
 -Jso: Great feedback, Tweakscale configs, and fixing the Ground Plane animation!
