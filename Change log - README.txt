@@ -20,7 +20,9 @@ Changelog:
 Beta 0.17
 
 New Parts:  
-
+  
+* 'Barca' Parts (Bus), inspired by SSL-1300 satellite bus  
+  
 ==Mariner Parts==  
 * 'Argo Mk2' Parts (Bus, Solar panels, HGA, Magnetometer mast, camera), inspired by Mariner 4  
 * 'Argo Mk3' Parts (Bus, Solar panels, HGA), inspired by Mariner 5  
@@ -28,12 +30,13 @@ New Parts:
   
 Updates/Fixes:
 
-* Tweaked for KSP version 1.5 
+* Tweaked for KSP version 1.9
+* Added PlumeParty particles FX  
 * Moved the original Mariner-style solar panels up to 'Electrics' in the tech tree  
 * Decreased the old Mariner panel's solar vane reaction wheel power  
 * Added new version of the CA-MV04 MP engine with a 'Control from here' point  
 * Tweaked ScienceDef files  
-* reduced 'Barquetta' monopropellant capacity to 7  
+* Reduced 'Barquetta' monopropellant capacity to 7  
 * Reworked Landvermesser textures to improve speculars, add normal maps, and TU support
 
 ============
@@ -53,6 +56,7 @@ Huge thanks to my Patreon supporters for helping me continue to work on the mod!
 -Rasta013: AntennaRange configs
 -komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
 -Stone Blue: Bug finding, suggestions and testing
+-JadeOfMaar: PlumeParty FX and configs
 -TheDevHole crew: Dank memes
 
 Thanks to everyone who supports and provides feedback and ecouragement on the Forums! Thanks to my wife and family for putting up with me through long hours of mod work
