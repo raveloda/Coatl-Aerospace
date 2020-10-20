@@ -30,7 +30,7 @@ New Parts:
   
 Updates/Fixes:
 
-* Tweaked for KSP version 1.9
+* Tweaked for KSP version 1.10
 * Added PlumeParty particles FX  
 * Moved the original Mariner-style solar panels up to 'Electrics' in the tech tree  
 * Decreased the old Mariner panel's solar vane reaction wheel power  
@@ -57,7 +57,7 @@ Huge thanks to my Patreon supporters for helping me continue to work on the mod!
 -komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
 -Stone Blue: Bug finding, suggestions and testing
 -JadeOfMaar: PlumeParty FX and configs
--TheDevHole crew: Dank memes
+-Bellabong: BDB ScienceConfig and MM patches
 
 Thanks to everyone who supports and provides feedback and ecouragement on the Forums! Thanks to my wife and family for putting up with me through long hours of mod work
 
