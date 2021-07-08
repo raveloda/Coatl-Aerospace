@@ -30,13 +30,16 @@ New Parts:
   
 Updates/Fixes:
 
-* Tweaked for KSP version 1.10
+* Tweaked for KSP version 1.12
 * Added PlumeParty particles FX  
 * Moved the original Mariner-style solar panels up to 'Electrics' in the tech tree  
 * Decreased the old Mariner panel's solar vane reaction wheel power  
 * Added new version of the CA-MV04 MP engine with a 'Control from here' point  
 * Tweaked ScienceDef files  
-* Reduced 'Barquetta' monopropellant capacity to 7  
+* New 'Barquetta' model redesign  
+* Updated model to some solar panels  
+* Reduced 'Barquetta' monopropellant capacity to 6  
+* Removed RCS module from 'Barquetta'  
 * Reworked Landvermesser textures to improve speculars, add normal maps, and TU support
 
 ============
@@ -55,7 +58,7 @@ Huge thanks to my Patreon supporters for helping me continue to work on the mod!
 -Rakol: RemoteTech configs
 -Rasta013: AntennaRange configs
 -komodo: DMagic contract fixes, part CFGs, Magnetometer Node fix, RemoteTech configs
--Stone Blue: Bug finding, suggestions and testing
+-Stone Blue: B9 Configs, Bug finding, suggestions and testing
 -JadeOfMaar: PlumeParty FX and configs
 -Bellabong: BDB ScienceConfig and MM patches
 
